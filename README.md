@@ -4,7 +4,7 @@
 
 1. Press WINDOWS button, search for "command prompt", run as administrator.
    
-   ![](assets/img/README/2023-07-25-15-45-39-image.png)
+   ![cmd](assets/img/README/2023-07-25-15-45-39-image.png)
 
 2. Type "wsl --install".
 
